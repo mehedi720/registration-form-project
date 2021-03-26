@@ -47,6 +47,9 @@
     padding: 35px; 
     background-image: url(../img/img.jpg);
     z-index: 999;
+    
+    /* parent tag er position relative hishebe set korte hobe*/
+    position: relative;
 }
 .heading {
     color: rgb(255, 255, 255);
